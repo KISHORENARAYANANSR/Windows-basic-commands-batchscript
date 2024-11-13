@@ -1,5 +1,7 @@
 # Windows-basic-commands-batchscript
-Ex08-Windows-basic-commands-batchscript
+Ex08-Windows-basic-commands-batchscript"
+# NAME:KISHORE NARAYANAN SR
+# REG.NO: 212223110023
 
 # AIM:
 To execute Windows basic commands and batch scripting
